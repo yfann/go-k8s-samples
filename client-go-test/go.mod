@@ -10,4 +10,4 @@ require (
 	k8s.io/client-go v0.16.6-beta.0
 	k8s.io/klog v1.0.0 // indirect
 	k8s.io/utils v0.0.0-20200821003339-5e75c0163111 // indirect
-).
+)
